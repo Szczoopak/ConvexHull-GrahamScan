@@ -24,6 +24,5 @@ Aplikacja desktopowa napisana w języku Python z wykorzystaniem biblioteki **Tki
 
 ### Wersja deweloperska (Python)
 1. Sklonuj repozytorium:
-   ```bash
-   git clone [https://github.com/Szczoopak/ConvexHull-GrahamScan.git](https://github.com/Szczoopak/ConvexHull-GrahamScan.git)
-   cd ConvexHull-GrahamScan
+```bash
+git clone https://github.com/Szczoopak/ConvexHull-GrahamScan.git
