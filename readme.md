@@ -2,7 +2,7 @@
 
 Aplikacja desktopowa napisana w języku Python z wykorzystaniem biblioteki **Tkinter** oraz **Matplotlib**, służąca do wyznaczania otoczki wypukłej zestawu punktów przy użyciu **Algorytmu Grahama**. Program został dostosowany do specyfiki układów geodezyjnych (oś X skierowana pionowo, oś Y poziomo).
 
-![Zrzut ekranu programu](assets/screenshot.png) 
+![Zrzut ekranu programu](assets/screenshot.png)
 
 ## 🚀 Funkcje programu
 * **Wyznaczanie otoczki wypukłej** dla dowolnej liczby punktów ($n \ge 3$).
